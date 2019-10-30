@@ -17,4 +17,6 @@ install pytorch and other dependencies
 ## Usage
 
 `python main.py`
+## Network Architecture
+![Alt text](./model2.jpg)
 
