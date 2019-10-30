@@ -6,7 +6,7 @@ import torchvision.datasets as datasets
 import torchvision.transforms as transforms
 from model_class import CLASS_NET
 from model_cover import COVER_NET
-# import util
+import util
 import numpy as np
 import cv2
 import shutil
