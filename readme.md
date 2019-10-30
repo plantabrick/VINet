@@ -17,6 +17,8 @@ install pytorch and other dependencies
 ## Usage
 
 `python main.py`
+
 ## Network Architecture
+
 ![](https://github.com/plantabrick/VINet/blob/master/model2.jpg)
 
