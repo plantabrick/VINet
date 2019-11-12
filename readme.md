@@ -40,4 +40,4 @@ The data used in the demo is already included in Git and does not need to be dow
 
 ## Visualization results
 
-![](https://raw.githubusercontent.com/plantabrick/VINet/master/visualization.png
+![](https://raw.githubusercontent.com/plantabrick/VINet/master/visualization.png)
