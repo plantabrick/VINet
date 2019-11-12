@@ -36,7 +36,7 @@ The data used in the demo is already included in Git and does not need to be dow
 
 ## Network Architecture
 
-![](https://github.com/plantabrick/VINet/blob/master/model2.jpg)
+![](https://github.com/plantabrick/VINet/blob/master/overall.png)
 
 ## Visualization results
 
