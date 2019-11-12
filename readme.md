@@ -38,3 +38,6 @@ The data used in the demo is already included in Git and does not need to be dow
 
 ![](https://github.com/plantabrick/VINet/blob/master/model2.jpg)
 
+## Visualization results
+
+![](https://raw.githubusercontent.com/plantabrick/VINet/master/visualization.png)
