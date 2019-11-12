@@ -14,7 +14,7 @@ install pytorch and other dependencies
 
 `pip2 install torchvision opencv-python shutil`
 
-## Usage
+## Run the demo
 
 `python main.py`
 
