@@ -14,9 +14,22 @@ install pytorch and other dependencies
 
 `pip2 install torchvision opencv-python shutil`
 
+## Download model parameters
+
+The trained model parameters can be downloaded from the following link：
+
+Link:https://pan.baidu.com/s/1sxpA5d0QPZnJOkhFsB_lhQ 
+
+Extraction code: 3lrg 
+
+This link consists of two files, i.e ckpt_class.pkl and ckpt_cover.pkl, corresponding to two subnetworks.
+
+These two files are placed directly in the directory of Vinet: "./VINet/ckpt_class.pkl" and "./VINet/ckpt_cover.pkl"
+
 ## Run the demo
 
 `python main.py`
+
 
 ## Dataset
 
