@@ -28,7 +28,7 @@ These two files are placed directly in the directory of Vinet: "./VINet/ckpt_cla
 
 ## Run the demo
 
-`python main.py`
+`python test.py`
 
 
 ## Dataset
