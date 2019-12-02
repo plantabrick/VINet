@@ -38,9 +38,11 @@ Complete data set:
 Our dataset is a two-dimensional slice cut from luna16 dataset, which contains six types of tumors with different severity.
 The following links can download the sliced data directly.
 
-Link: https://pan.baidu.com/s/1qd5d5fdx6yywww8lipihq
+Link: https://pan.baidu.com/s/1aio8CDyQ0BgfcdMomjJt-Q 
 
-Extraction code: y4ia
+Extraction code: 22vb
+
+Compressed file password：vinet
 
 Demo data:
 
